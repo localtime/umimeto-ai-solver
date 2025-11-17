@@ -64,7 +64,7 @@ Pro zastavení klikněte znovu (červené)
 **NENÍ určeno pro:**
 - Podvádění v testech
 - Komercionalizaci
-<img width="1893" height="854" alt="image" src="https://github.com/user-attachments/assets/a2c31104-8edf-497b-94c2-bf478290d48b" />
+<img width="1625" height="793" alt="image" src="https://github.com/user-attachments/assets/6c44108f-8bb3-4dd5-b90d-86229160ff55" />
 
   
 **Uživatel je zodpovědný za dodržování Terms of Service platformy Umíme.to a Groq.**
