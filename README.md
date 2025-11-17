@@ -1,4 +1,3 @@
-@ -0,0 +1,72 @@
 ### :robot: Umíme.to Auto Solver
 Automatický solver pro výukovou platformu Umíme.to s využitím AI. Řeší matematické a jazykové úlohy v reálném čase pomocí pokročilých modelů od Groq.
 
