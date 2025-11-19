@@ -3,6 +3,8 @@ Automatický solver pro výukovou platformu Umíme.to s využitím AI. Řeší m
 
 <img width="1625" height="793" alt="image" src="https://github.com/user-attachments/assets/6c44108f-8bb3-4dd5-b90d-86229160ff55" />
 
+https://www.youtube.com/watch?v=s9ifw9y-fck
+
 **:sparkles: Klíčové vlastnosti**
 - Aktuální podpora pouze cvičení : Rozhodovačka
 - Bez obou klíčů skript nevykonává žádné operace
